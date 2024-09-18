@@ -1,0 +1,14 @@
+h:\C#consolo\MyFristApp\bin\Debug\net7.0\MyFristApp.exe
+H:\C#consolo\MyFristApp\bin\Debug\net7.0\MyFristApp.deps.json
+H:\C#consolo\MyFristApp\bin\Debug\net7.0\MyFristApp.runtimeconfig.json
+h:\C#consolo\MyFristApp\bin\Debug\net7.0\MyFristApp.dll
+h:\C#consolo\MyFristApp\bin\Debug\net7.0\MyFristApp.pdb
+h:\C#consolo\MyFristApp\obj\Debug\net7.0\MyFristApp.GeneratedMSBuildEditorConfig.editorconfig
+h:\C#consolo\MyFristApp\obj\Debug\net7.0\MyFristApp.AssemblyInfoInputs.cache
+h:\C#consolo\MyFristApp\obj\Debug\net7.0\MyFristApp.AssemblyInfo.cs
+h:\C#consolo\MyFristApp\obj\Debug\net7.0\MyFristApp.csproj.CoreCompileInputs.cache
+h:\C#consolo\MyFristApp\obj\Debug\net7.0\MyFristApp.dll
+h:\C#consolo\MyFristApp\obj\Debug\net7.0\refint\MyFristApp.dll
+h:\C#consolo\MyFristApp\obj\Debug\net7.0\MyFristApp.pdb
+H:\C#consolo\MyFristApp\obj\Debug\net7.0\MyFristApp.genruntimeconfig.cache
+H:\C#consolo\MyFristApp\obj\Debug\net7.0\ref\MyFristApp.dll

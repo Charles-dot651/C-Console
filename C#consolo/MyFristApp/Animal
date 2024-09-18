@@ -1,0 +1,16 @@
+
+
+public class animal
+{ 
+    public virtual void Sound
+    {
+        Console.WriteLine(" actoule sound");
+    }
+}
+
+Public class Dog : action
+{
+    public va
+
+
+}

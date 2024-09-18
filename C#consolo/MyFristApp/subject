@@ -1,0 +1,7 @@
+class subject
+{
+    public class void Mysubject
+    {
+        Console.WriteLine("Hello ")
+    }
+}
