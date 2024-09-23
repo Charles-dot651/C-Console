@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\C#consolo\\MyFristApp\\MyFristApp.csproj",
+      "projectUniqueName": "C:\\Users\\25morrisoncl\\Documents\\GitHub\\C-Console\\C#consolo\\MyFristApp\\MyFristApp.csproj",
       "projectName": "MyFristApp",
-      "projectPath": "H:\\C#consolo\\MyFristApp\\MyFristApp.csproj",
+      "projectPath": "C:\\Users\\25morrisoncl\\Documents\\GitHub\\C-Console\\C#consolo\\MyFristApp\\MyFristApp.csproj",
       "packagesPath": "C:\\Users\\25morrisoncl\\.nuget\\packages\\",
-      "outputPath": "H:\\C#consolo\\MyFristApp\\obj\\",
+      "outputPath": "C:\\Users\\25morrisoncl\\Documents\\GitHub\\C-Console\\C#consolo\\MyFristApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\25morrisoncl\\AppData\\Roaming\\NuGet\\NuGet.Config"
